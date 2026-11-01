@@ -1,1 +1,1 @@
-# Đăng nhập: kiểm tra mật khẩu SAI thì cho vào
+# Đăng nhập: kiểm tra mật khẩu đúng thì cho vào
